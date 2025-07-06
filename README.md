@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at SolveEz as a Cloud Systems Administrator<br>🌱 I’m currently learning more on Cloud Systems Administrator Practices<br>💬 Ask me about Go, AWS & Cloud Systems<br>📫 How to reach me: www.golamrabbi.dev<br>⚡ Fun fact: Big Fan of the ⚡ emoji
+🔭 I’m currently working at SolveEz as a Web Developer<br>🌱 I’m currently learning more on Cloud Systems Administrator Practices<br>💬 Ask me about Go, AWS & Cloud Systems<br>📫 How to reach me: www.golamrabbi.dev<br>⚡ Fun fact: Big Fan of the ⚡ emoji
 
 
 ## 🌐 Socials:
